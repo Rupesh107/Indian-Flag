@@ -1,4 +1,4 @@
-**A simple Python code to design our Indian Flag **
+**A simple Python code to design our Indian Flag
 
 **#Significance of Indian Tricolour :
 
