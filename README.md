@@ -1,6 +1,6 @@
-A simple Python code to design our Indian Flag 
+**A simple Python code to design our Indian Flag **
 
-#Significance of Indian Tricolour :
+**#Significance of Indian Tricolour :
 
 Saffron : represents the Strength and Courage of the Country
 
